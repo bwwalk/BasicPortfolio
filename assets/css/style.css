@@ -18,7 +18,6 @@ body {
   /*background-image: url("paper.gif");*/
 }
 
-/*div that includes header and h1 tags*/ 
 #fixed {
   position: fixed;
   margin: 0 auto;
@@ -30,8 +29,6 @@ body {
 
 /*includes h1 tag with my name*/
 header {
-  /*padding: 20px;*/
-  /*margin-bottom: 20px;*/
   position:fixed;
   width:100%;
   color: #fff;
@@ -113,8 +110,6 @@ h3:after {
   width: 200px;
 }
 
-/*nav tag with ul and li of about, portfolio, 
-contact*/
 #absolute {
   position: absolute;
   right: 140px;
